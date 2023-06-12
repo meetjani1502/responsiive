@@ -1,0 +1,40 @@
+.class1{
+    padding: 30px;
+    position: relative;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.row {
+  width: 30%;
+  height: 50px;
+  background-color: brown;
+  padding: 15px;
+}
+.main1 {
+  width: 30%;
+  height: 50px;
+  background-color: green;
+  margin: 5px;
+  padding: 15px;
+  margin-top: 15px;
+}
+.main2 {
+  width: 30%;
+  height: 50px;
+  background-color: blue;
+  margin: 5px;
+  padding: 15px;
+}
+.main3 {
+  width: 30%;
+  height: 50px;
+  background-color: red;
+  margin: 5px;
+  padding: 15px;
+}
+.main4 {
+  width: 30%;
+  height: 50px;
+  background-color: purple;
+  margin: 5px;
+  padding: 15px;
+}
